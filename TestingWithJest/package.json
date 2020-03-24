@@ -1,0 +1,26 @@
+{
+  "name": "testingwithjest",
+  "version": "1.0.0",
+  "description": "Basic testing of Javascript with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanSolisCeballos/TestingWithJest.git"
+  },
+  "keywords": [
+    "Jest"
+  ],
+  "author": "Jonathan Solis Ceballos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanSolisCeballos/TestingWithJest/issues"
+  },
+  "homepage": "https://github.com/JonathanSolisCeballos/TestingWithJest#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "start": "^5.1.0"
+  }
+}
